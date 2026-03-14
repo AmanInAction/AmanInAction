@@ -82,10 +82,10 @@ Currently focusing on:
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmanInAction&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmanInAction&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
