@@ -64,16 +64,14 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanInAction&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInAction&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanInAction&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInAction&layout=compact)
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: amanchauhan10a@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/aman-chauhan-2489b1312 
+📧 Email: amanchauhan10a@gmail.com  <br>
+💼 LinkedIn: https://www.linkedin.com/in/aman-chauhan-2489b1312 <br>
 🌐 Portfolio: coming soon  
 
 ---
