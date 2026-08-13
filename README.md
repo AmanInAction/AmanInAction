@@ -62,30 +62,10 @@ Currently focusing on:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmanInAction&show_icons=true&theme=tokyonight" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInAction&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AmanInAction&theme=tokyonight&border_radius=6" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmanInAction&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
