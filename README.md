@@ -73,8 +73,9 @@ Currently focusing on:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://vercel.app" alt="Aman's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanInAction&theme=tokyo-night" alt="Aman's GitHub Activity Graph" />
 </p>
+
 
 
 
