@@ -86,10 +86,10 @@ Currently focusing on:
 📧 Email: **amanchauhan10a@gmail.com**  
 
 💼 LinkedIn  
-https://www.linkedin.com/in/aman-chauhan-2489b1312
+<a href="https://www.linkedin.com/in/aman-chauhan-2489b1312">aman-chauhan<a/>
 
 🌐 Portfolio  
-[https://amansinghchauhan-ten.vercel.app/]
+<a href="https://amansinghchauhan-ten.vercel.app/">aman-singh-chauhan<a/>
 
 ---
 
